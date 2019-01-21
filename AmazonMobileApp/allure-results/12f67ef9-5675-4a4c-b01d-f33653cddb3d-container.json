@@ -1,0 +1,1 @@
+{"uuid":"12f67ef9-5675-4a4c-b01d-f33653cddb3d","name":"in.amazon.mshop.AmazonMobileApp.FindAProduct_Test","start":1546879143790,"stop":1546879199593,"children":["0da8610c-a978-4d60-951d-bf558fbd70ae"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1546879143837,"stop":1546879163805}]}
