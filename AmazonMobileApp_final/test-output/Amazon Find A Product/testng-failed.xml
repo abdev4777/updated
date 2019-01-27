@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Amazon Find A Product]">
+  <test thread-count="5" name="Skip Login(failed)">
+    <classes>
+      <class name="in.amazon.mshop.AmazonMobileApp.FindAProduct_Test">
+        <methods>
+          <include name="setup"/>
+          <include name="checkAvailability"/>
+        </methods>
+      </class> <!-- in.amazon.mshop.AmazonMobileApp.FindAProduct_Test -->
+    </classes>
+  </test> <!-- Skip Login(failed) -->
+</suite> <!-- Failed suite [Amazon Find A Product] -->

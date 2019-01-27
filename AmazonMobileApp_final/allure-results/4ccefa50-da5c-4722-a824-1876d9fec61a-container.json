@@ -1,0 +1,1 @@
+{"uuid":"4ccefa50-da5c-4722-a824-1876d9fec61a","name":"in.amazon.mshop.AmazonMobileApp.FindAProduct_Test.tearDown","description":"","start":1544552381230,"stop":1544552381230,"children":["cec8abba-f978-4153-b760-008e1d7a2b38"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1544552381230,"stop":1544552381230}]}
